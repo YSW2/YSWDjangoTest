@@ -1,1 +1,3 @@
-"# YSWDjangoTest" 
+# YSWDjangoTest
+
+Studying Django, Python
