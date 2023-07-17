@@ -1,1 +1,3 @@
 # YSWDjangoTest
+
+Studying Django, Python
